@@ -10,6 +10,7 @@ body{
 
 /************Classes*********/
 
+
 .first{
 margin: auto;
 width: 100%;
@@ -25,7 +26,12 @@ text-align: center;
   margin:auto;
 }
 .Dev{
-  font-family: monospace;
+  font-family: 'Roboto',serif;
   font-size: 20px;
+  color: gray;
+}
+
+.title{
+  font-family: 'Calligraffitti',cursive;
   color: gray;
 }
