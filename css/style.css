@@ -1,0 +1,31 @@
+/************Fonts********/
+
+
+/*********Main***********/
+body{
+  background-color: #eaffd0;
+}
+
+
+
+/************Classes*********/
+
+.first{
+margin: auto;
+width: 100%;
+text-align: center;
+
+}
+.second{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+.center{
+  margin:auto;
+}
+.Dev{
+  font-family: monospace;
+  font-size: 20px;
+  color: gray;
+}
