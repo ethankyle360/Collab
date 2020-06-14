@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Ammar's Personal Site</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="images/avtar.png">
+  <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Roboto:wght@100;400&family=Satisfy&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a href="#" class="navbar-brand">Ammar Personal Site</a>
+    <div class="collapse navbar-collapse">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a href="#" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">About me</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">Contact Me</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <!-- first div -->
+  <div class="first">
+    <div class="intro">
+      <img src="images/avtar.png" width="200" height="200">
+      <h1 class="title">I am Ammar</h1>
+      <h5 class="web-designer">A web designer.</h5>
+    </div>
+  </div>
+  <!-- second div -->
+  <div class="second">
+    <h2>What I Do.</h2>
+    <div class="first-row col-lg-12">
+      <img class="first-image" src="images/computer.png" alt="">
+      <h3><a href="">Lorem</a></h3>
+      <p>Fill in. Fill in. Fill in. Fill in. Fill in.
+        Fill in. Fill in. Fill in. Fill in. Fill in.</p>
+    </div>
+    <div class="second-row col-lg-12">
+      <img class="second-image" src="images/web-design.png" alt="">
+      <h3><a href="">Lorem</a></h3>
+      <p>Fill in. Fill in. Fill in. Fill in. Fill in.
+        Fill in. Fill in. Fill in. Fill in. Fill in.</p>
+    </div>
+  </div>
+
+</body>
+
+</html>
